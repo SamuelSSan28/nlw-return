@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://i.imgur.com/iJJJutO.png" alt="nlw-return">
+  <img src="https://i.imgur.com/iJJJutO.png" alt="nlw-return" width="600px">
   
   <br/>
    <br/>
